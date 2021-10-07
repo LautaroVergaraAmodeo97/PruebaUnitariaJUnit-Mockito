@@ -1,0 +1,10 @@
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('DO','República Dominicana','Santo Domingo','23/11/1986');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('AR','Argentina','Ciudad Autónoma de Buenos Aires','09/07/1816');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('EC','Ecuador','Quito','24/05/1822');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('HT','Haití','Puerto Príncipe','01/01/1804');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('VE','Venezuela','Caracas','05/07/1811');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('PY','Paraguay','Asunción','15/05/1811');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('JM','Jamaica','Kingston','06/08/1962');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('GT','Guatemala','Ciudad de Guatemala','15/09/1821');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('CR','Costa Rica','San José','15/07/1821');
+insert into pais (codigo,nombre_pais,capital_pais,independencia) values ('BO','Bolivia','Sucre','06/08/1825');
