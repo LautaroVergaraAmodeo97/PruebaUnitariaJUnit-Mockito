@@ -1,4 +1,4 @@
-package com.tutorialesvip.tutorialunittest.models;
+package TutorialJUnit.models;
 
 public class PaisResponse {
     private String nombre_pais;

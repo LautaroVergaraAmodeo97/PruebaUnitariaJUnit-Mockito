@@ -1,9 +1,9 @@
-package com.tutorialesvip.tutorialunittest.controller;
+package TutorialJUnit.controller;
 
-import com.tutorialesvip.tutorialunittest.models.Pais;
-import com.tutorialesvip.tutorialunittest.models.PaisResponse;
-import com.tutorialesvip.tutorialunittest.repositories.PaisRepositorio;
-import com.tutorialesvip.tutorialunittest.util.DiferenciaEntreFechas;
+import TutorialJUnit.repositories.PaisRepositorio;
+import TutorialJUnit.models.Pais;
+import TutorialJUnit.models.PaisResponse;
+import TutorialJUnit.util.DiferenciaEntreFechas;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

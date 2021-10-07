@@ -1,13 +1,10 @@
-package com.tutorialesvip.tutorialunittest.util;
+package TutorialJUnit.util;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import java.time.LocalDate;
 import java.time.Period;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class DiferenciaEntreFechasTest {
 

@@ -1,6 +1,6 @@
-package com.tutorialesvip.tutorialunittest.repositories;
+package TutorialJUnit.repositories;
 
-import com.tutorialesvip.tutorialunittest.models.Pais;
+import TutorialJUnit.models.Pais;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

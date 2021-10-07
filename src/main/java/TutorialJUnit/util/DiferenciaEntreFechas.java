@@ -1,4 +1,4 @@
-package com.tutorialesvip.tutorialunittest.util;
+package TutorialJUnit.util;
 
 import org.springframework.stereotype.Component;
 

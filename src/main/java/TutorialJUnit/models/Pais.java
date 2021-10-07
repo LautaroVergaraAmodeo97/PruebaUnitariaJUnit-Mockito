@@ -1,4 +1,4 @@
-package com.tutorialesvip.tutorialunittest.models;
+package TutorialJUnit.models;
 
 import javax.persistence.*;
 

@@ -1,9 +1,9 @@
-package com.tutorialesvip.tutorialunittest.controller;
+package TutorialJUnit.controller;
 
-import com.tutorialesvip.tutorialunittest.models.Pais;
-import com.tutorialesvip.tutorialunittest.models.PaisResponse;
-import com.tutorialesvip.tutorialunittest.repositories.PaisRepositorio;
-import com.tutorialesvip.tutorialunittest.util.DiferenciaEntreFechas;
+import TutorialJUnit.models.Pais;
+import TutorialJUnit.models.PaisResponse;
+import TutorialJUnit.repositories.PaisRepositorio;
+import TutorialJUnit.util.DiferenciaEntreFechas;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
