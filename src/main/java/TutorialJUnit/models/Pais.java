@@ -17,7 +17,7 @@ public class Pais {
     @Column(name ="codigo")
     private String codigo;
 
-    public void setPaisIdId(Long paisId) {
+    public void setPaisId(Long paisId) {
         this.paisId = paisId;
     }
 
